@@ -21,6 +21,10 @@ The project was implemented using the following technologies and libraries:
 
 ![Vite.js](https://img.shields.io/badge/Vite.js-4.4.5-lightskyblue) ![Typescript](https://img.shields.io/badge/Typescript-5.0.2-darkslateblue) ![Sass](https://img.shields.io/badge/Sass-1.69.5-coral)![React](https://img.shields.io/badge/React.js-18.2.0-teal) ![React-dom](https://img.shields.io/badge/React%20dom-18.2.0-lightgpink) ![React-router-dom](https://img.shields.io/badge/React%20router%20dom-6.18.0-lightpink) ![React-responsive](https://img.shields.io/badge/React%20responsive-9.0.2-lavenderblush)
 
+## Live
+
+Visit the live website at: [GoGreen Website](https://letsgo-green.netlify.app/)
+
 ## Screenshots
 
 ![home page](./src/assets/screenshots/1.png)
